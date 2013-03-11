@@ -1,0 +1,1 @@
+The purpose of this assingment is to showcase the Binary Search Tree class
